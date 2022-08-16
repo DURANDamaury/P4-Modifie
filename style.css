@@ -771,7 +771,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #7d2d07;
 }
 
 .tc-white {
@@ -779,7 +779,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #7d2d07;
     color: #FFFFFF!important;
 }
 
@@ -836,7 +836,7 @@ p.citation
 span.auteur
     {
         font-style: normal;
-        color: #7a7a7a;
+        color: #573232;
     }
 
 @media (max-width: 1024px) {
