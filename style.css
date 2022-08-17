@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -476,7 +476,8 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 52px!important;
+    padding: 15px;
 }
 
 .icon-lg {
