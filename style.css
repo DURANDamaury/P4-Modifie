@@ -826,6 +826,12 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+img.logo 
+    {
+        height: 40px;
+
+    }
+
 p.citation
     {
         font-size: 19px;
